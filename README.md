@@ -1,1 +1,1 @@
-An exercise for [#162 Tree-Based Navigation](http://railscasts.com/episodes/162-tree-based-navigation-revised?view=asciicast)
+An exercise for [#63 Model Name in URL](http://railscasts.com/episodes/63-model-name-in-url-revised?view=asciicast)
